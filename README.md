@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on projects of my domain<br>🤝 I’m looking for help with building full fledged website <br>🌱 I’m currently learning data science and web development<br>💬 Ask me about frontend<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on projects of my domain<br>🤝 I’m looking for help with to identify industrial problems with data science<br>🌱 I’m currently learning Scikit<br>💬 Ask me about frontend<br>⚡ Fun fact - I am lazy but smart.
 
 
 ## 🌐 Socials:
